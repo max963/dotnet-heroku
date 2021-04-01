@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t7mpfVPjENc7q0tn7GiCRLS93nVlALEk2109Xmyr78ZKUrGdBYSCOBSbN0k2HwTQWzBH7PnCPDzHShE5WMuTaw==",
+  "dgSpecHash": "63BoD2kWuY9r3srJzi0uEzQ+yxf30iCiEg1OZL17x1kk6svwf3e132YuDs8B4kPOEjOj+0nHikkI/rEZPnweFA==",
   "success": true,
-  "projectFilePath": "C:\\gitprojs\\dotnet-heroku\\TarefasBackEnd\\TarefasBackEnd.csproj",
+  "projectFilePath": "C:\\gitprojs\\dotnet-heroku\\TarefasBackEnd.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Cliente\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.4\\microsoft.aspnetcore.authentication.jwtbearer.3.1.4.nupkg.sha512",
     "C:\\Users\\Cliente\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

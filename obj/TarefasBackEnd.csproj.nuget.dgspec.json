@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\gitprojs\\dotnet-heroku\\TarefasBackEnd\\TarefasBackEnd.csproj": {}
+    "C:\\gitprojs\\dotnet-heroku\\TarefasBackEnd.csproj": {}
   },
   "projects": {
-    "C:\\gitprojs\\dotnet-heroku\\TarefasBackEnd\\TarefasBackEnd.csproj": {
+    "C:\\gitprojs\\dotnet-heroku\\TarefasBackEnd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\gitprojs\\dotnet-heroku\\TarefasBackEnd\\TarefasBackEnd.csproj",
+        "projectUniqueName": "C:\\gitprojs\\dotnet-heroku\\TarefasBackEnd.csproj",
         "projectName": "TarefasBackEnd",
-        "projectPath": "C:\\gitprojs\\dotnet-heroku\\TarefasBackEnd\\TarefasBackEnd.csproj",
+        "projectPath": "C:\\gitprojs\\dotnet-heroku\\TarefasBackEnd.csproj",
         "packagesPath": "C:\\Users\\Cliente\\.nuget\\packages\\",
-        "outputPath": "C:\\gitprojs\\dotnet-heroku\\TarefasBackEnd\\obj\\",
+        "outputPath": "C:\\gitprojs\\dotnet-heroku\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
