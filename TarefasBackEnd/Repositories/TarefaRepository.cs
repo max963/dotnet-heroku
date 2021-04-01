@@ -29,9 +29,9 @@ namespace TarefasBackEnd.Repositories
             _dataContext.SaveChanges();
         }
 
-        public List<Tarefa> Read()
+        public List<Tarefa> Read(Guid id)
         {
-            return _dataContext.Tarefas.ToList();
+            return _dataContext.Tarefas.Where(x => x.Id == id).ToList();
         }
 
         public void Update(Tarefa tarefa)
